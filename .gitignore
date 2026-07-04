@@ -1,0 +1,9 @@
+# Terraform state files (sensitive!)
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+terraform-2/
+
+# Portfolio app (separate repo)
+Portfolio-APP/
