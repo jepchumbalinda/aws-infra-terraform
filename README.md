@@ -19,8 +19,7 @@ Provisioned a complete AWS infrastructure stack using Terraform (IaC).
 - AWS Free Tier (us-east-1)
 
 ## How to Deploy
-```bash
+bash
 terraform init
 terraform plan
 terraform apply
-```
